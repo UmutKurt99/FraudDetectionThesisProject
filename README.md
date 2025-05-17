@@ -86,6 +86,6 @@ FraudDetectionPipeline.run_supervisedmodels(model)
 
 The structure of the pipeline for fraud detection is designed to be modular, reusable and extendable. It can be extandable by custom models with custom loss functions, additional model and class imbalance techniques, new evaluation metrics to better understand and strong feature importance techniques to interpret the black box. 
 
-## Acknowledgements 
+## Acknowledgements 
 
 We would like to express our deepest gratitude to our supervisor Prof. Dr. Wouter Verbeke and daily advisor Dr. Bruno Deprez. Full references and bibliography can be found in the thesis.
